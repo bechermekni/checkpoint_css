@@ -1,0 +1,40 @@
+
+nav ul {
+    background-color: #eee;
+    overflow: hidden;
+    margin: 10px; ;
+    padding: 00%;
+    
+}
+ul.topnav  li{
+list-style:none ;
+float: left;
+}
+
+ul.topnav li.topnav-right {
+float: right;
+}
+
+
+ul.topnav li a {
+    display: block;
+    min-height: 16px;
+    text-align: center;
+    padding: 14px;
+    text-transform: uppercase;
+}
+body {
+    background-color: rgb(242, 241, 247);
+    font-family: 'roboto';
+}
+
+h1 {
+    color: firebrick;
+    text-align: center;
+    }
+    h3{
+        color: blueviolet;
+    }
+    a:active{ color: coral;}
+    a:visited{color: aqua;}
+    a{text-decoration: none;} 
